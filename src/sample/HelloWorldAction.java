@@ -7,6 +7,7 @@ import org.apache.logging.log4j.Logger;
  * [HelloWorldのアクションクラス]<br>
  * <br>
  * @author inami-K
+ * @author sakai-K
  */
 public class HelloWorldAction {
     /** ロガー */
